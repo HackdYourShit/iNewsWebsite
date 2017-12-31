@@ -1,0 +1,101 @@
+.Titel {
+	font-size: 50px;
+	font-family: Arial;
+	font-weight: 600;
+	text-align: center;
+	padding:50px 0;
+}
+
+body,p {padding:0px; margin:0px;}
+
+.banane {
+	width: 100%;
+	height: 350px;
+	text-align: center;
+	
+	background: url(background.png) no-repeat;
+	background-size: 100% 100%;
+
+
+}
+
+
+.banane img {
+	width: 200px;
+	 height:200px;
+	 margin:40px;
+padding:0px;
+}
+
+
+.gg {
+	top: 170px;
+	height: 200px;
+	left: 625px;
+	position: absolute;
+	z-index: -1000;
+}
+
+.in {
+	font-size: 160px;
+	position: relative;
+	font-family: arial;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+	top: 210px;
+}
+
+.aboutbut {
+		border-radius: 50px;
+	background: #444;
+
+}
+.d1 {
+	margin-bottom: 130px;
+	margin-top: 100px;
+	position: absolute;
+}
+
+.Desc {
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: 400;
+
+}
+
+.look {
+	color: grey;
+	font-style: italic;
+	text-align: center;
+}
+
+.install {
+	border-radius: 50px;
+	background: #444;
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+	align-content: center;
+	left: 550px;
+	right: 550px;
+	position: absolute;
+	margin-bottom: 30px;
+
+}
+
+.about {
+	border-radius: 50px;
+	background: #444;
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+	align-content: center;
+	left: 570px;
+	text-align: center;
+	right: 570px;
+	position: absolute;
+
+}
+
