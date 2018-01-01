@@ -9,4 +9,4 @@ the App was made by @LilWebDev and @Seyed_Dev
 
 Special thanks to Billy Ellis and GeoSn0w for their great support on Me !
 
-(Copyright 2018 Luca R)
+_____(Copyright 2018 Luca R)_____
